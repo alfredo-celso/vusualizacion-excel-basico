@@ -1,4 +1,4 @@
-# Basic-excel-visualization
+# Basic-excel-data-visualization
 Visualize data using Excel, please read the tutorial how-to fulfil the table with data.
 
 # Balance
