@@ -1,5 +1,5 @@
-# basic-excel-visualization
-Visualize data using Excel
+# Basic-excel-visualization
+Visualize data using Excel, please read the tutorial how-to fulfil the table with data.
 
 # Balance
 Check out the status of your finances.
